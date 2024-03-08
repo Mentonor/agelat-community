@@ -1,6 +1,6 @@
 # Agelat Community
 > [!IMPORTANT]
-> Repozytorium Agelat Network z udostępnioną zawartością dla społeczności
+> Repozytorium Agelat Network z udostępnioną zawartością dla społeczności.
 > Tutaj pojawiają się najbardziej aktualne zmiany, inne środki komunikacji mogą być nieaktualne.
 
 ## Udostępniona zawartość
