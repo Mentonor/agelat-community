@@ -5,6 +5,7 @@ Jest to opcjonalny ModPack, który poprawia wrażenia gry na naszym serwerze MC 
 - Obsługa funkcji dla tekstów wspierających optifine m.in. efekty świetlne, animacje itp.
 - Renderowanie terenu poza limit ustawiony na serwerze (render distance nawet do 54 chunków, przy limicie serwera 12 !!!)
 - Optymalizacja zużycia ram, gpu i cpu (wysokie ustawnienia renderowania + shadery = 60FPS dla Intel i5-11300H, RTX 3050 laptop oraz 8GB ram dla MC)
+- Mechaniki ułatwiajęce grę m.in. skróty klawiszowe, lepszy widok z kamery 3-osobowej
 
 ## Na co zwracać uwagę, przy korzystaniu z ModPacka
 - Renderowanie chunków pochłania dużą ilość ramu, ponieważ korzysta z niego jako czache dla tych operacji ze względu na szybki dostęp.
