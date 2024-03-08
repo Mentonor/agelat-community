@@ -11,5 +11,5 @@ Jest to opcjonalny ModPack, który poprawia wrażenia gry na naszym serwerze MC 
 - Renderowanie chunków pochłania dużą ilość ramu, ponieważ korzysta z niego jako czache dla tych operacji ze względu na szybki dostęp.
 - Distant Horizons potrafi pokazywać puste chunki, zalecamy wyłączenie jeśli nie potrzeba.
 
-> [!NOTE]
+> [!WARNING]
 > Pliki są bez predefiniowanych ustawień. Zalecamy dostosowanie ich pod własne wymogi.
