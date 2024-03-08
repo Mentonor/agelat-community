@@ -1,5 +1,5 @@
 # Agelat Community
-> Repozytorium Agelat Network z udostępnioną zawartością dla społeczności
+Repozytorium Agelat Network z udostępnioną zawartością dla społeczności
 
 ## Udostępniona zawartość
 - [Oficjalny ModPack serwera RPG](https://github.com/Mentonor/agelat-community/tree/35cb9075e1c7fbf745f0774936ef6485642f1b19/ModPack)
